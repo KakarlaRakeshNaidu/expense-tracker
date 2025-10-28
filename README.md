@@ -87,3 +87,7 @@ We welcome contributions! Please feel free to submit a Pull Request. For major c
 - [Chart.js](https://www.chartjs.org/) for the charts and visualizations
 - [Lucide](https://lucide.dev/) for the beautiful icons
 
+📜 License
+
+MIT License © 2025
+Feel free to use, modify, and contribute!
