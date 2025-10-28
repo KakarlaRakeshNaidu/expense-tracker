@@ -1,14 +1,11 @@
-# Expense Tracker App
-[![Netlify Status](https://api.netlify.com/api/v1/badges/645d7c3a-7c77-41e2-a42d-3006da3f3bc2/deploy-status)](https://app.netlify.com/sites/expense-tracker/deploys)
-[![CI/CD](https://github.com/cibofdevs/expense-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/cibofdevs/expense-tracker/actions/workflows/ci.yml)
+
 
 A modern and intuitive expense tracking application built with React, TypeScript, and Supabase. Track your expenses, manage your budget, and gain insights into your spending habits with beautiful visualizations and a responsive UI.
 
 ## Preview
 ![Expense Tracker Screenshot](preview.png)
 
-## Live Demo
-Visit the live application at: [https://expense-cibofdevs.netlify.app](https://expense-cibofdevs.netlify.app)
+
 
 ## Features
 - 📊 **Dashboard Overview**: Get a quick snapshot of your income, expenses, and savings
@@ -41,7 +38,7 @@ Visit the live application at: [https://expense-cibofdevs.netlify.app](https://e
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/cibofdevs/expense-tracker.git
+git clone https://github.com/KakarlaRakeshNaidu/expense-tracker.git
 cd expense-tracker
 ```
 
@@ -91,5 +88,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Chart.js](https://www.chartjs.org/) for the charts and visualizations
 - [Lucide](https://lucide.dev/) for the beautiful icons
 
-## Support
-If you find this project helpful, please give it a ⭐️ on GitHub!
